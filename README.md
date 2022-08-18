@@ -1,1 +1,3 @@
-# ConceptualSchemaProject
+# ConceptualSchema
+
+Database Management Project
