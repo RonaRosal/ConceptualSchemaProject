@@ -1,4 +1,4 @@
-# ConceptualSchema
+# Conceptual Schema
 
 Conceptual Schema model for a organization.
 
