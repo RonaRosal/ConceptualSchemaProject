@@ -1,5 +1,6 @@
 # ConceptualSchema
--- add description
+
+Conceptual Schema model for a organization.
 
 
 # What I learned 
